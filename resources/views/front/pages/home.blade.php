@@ -4,7 +4,7 @@
     <header>
         <div class="header-content">
             <div class="header-content-inner">
-                <h1 id="homeHeading">Larval Auth 5.3 Tutorial with Email Activation Demo</h1>
+                <h1 id="homeHeading">Larval Auth 5.3 Tutorial with Email Activation, Login Throttling & reCAPTCHA Demo</h1>
                 <hr>
 				@include('notifications.status_message')
 				@include('notifications.errors_message')
