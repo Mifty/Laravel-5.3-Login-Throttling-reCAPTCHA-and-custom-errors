@@ -83,7 +83,7 @@
 
 @section('scripts')
 <script src='https://www.google.com/recaptcha/api.js'></script>
-<script src="{!! asset('assets/js/plugins/parsley/parsley.js.') !!}"></script>
+<script src="{!! asset('assets/js/plugins/parsley/parsley.js') !!}"></script>
 <script>
 $(function () {
   $('#form-register').parsley().on('field:validated', function() {

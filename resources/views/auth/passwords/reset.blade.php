@@ -57,3 +57,7 @@
 		
     </div><!-- /container -->
 @endsection
+
+@section('scripts')
+<script src="{!! asset('assets/js/plugins/parsley/parsley.js') !!}"></script>
+@endsection
